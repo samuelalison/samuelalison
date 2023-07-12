@@ -6,9 +6,12 @@ Frontend Developer
 
 An ardent disciple of the frontend craft, I am a developer who possesses an innate creative spirit and an unwavering attention to detail. With a deep understanding of the art of web aesthetics, I specialize in fashioning visually captivating and user-friendly interfaces. Armed with the tools of HTML, CSS, and JavaScript, I embark on the noble quest of constructing digital realms that captivate the senses. Well-versed in the sacred language of React, I possess the ability to metamorphose design blueprints into flawlessly rendered web landscapes. My code is a testament to my commitment to excellence, optimizing performance and ensuring the harmonious coexistence of diverse browsers. In this ever-evolving digital age, I remain steadfast in my pursuit of knowledge, constantly immersing myself in the currents of contemporary frontend practices. My vocation is to craft transcendental user experiences that transcend the ordinary, elevating the digital sphere to unexplored realms of beauty and functionality.
 
-*   🌍  I'm based in Nigeria
-*   ✉️  You can contact me at [samuelalison13@gmail.com](mailto:samuelalison13@gmail.com)
-*   🧠  I'm learning Angular### Skills 
+* 🌍  I'm based in Nigeria
+* ✉️  You can contact me at [samuelalison13@gmail.com](mailto:samuelalison13@gmail.com)
+* 🧠  I'm learning Angular
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -24,18 +27,18 @@ An ardent disciple of the frontend craft, I am a developer who possesses an inna
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/samuelalison" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/samuel-alison-469435261/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/SamuelALIS41269" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/samuelalison"><img src="https://github-readme-stats.vercel.app/api?username=samuelalison&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="samuelalison's GitHub stats" /></a><a
-                      href="http://www.github.com/samuelalison"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=samuelalison&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/samuelalison"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=samuelalison&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/samuelalison" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalison&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/samuelalison" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/samuel-alison-469435261/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/samuelalison"><img src="https://github-readme-stats.vercel.app/api?username=samuelalison&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="samuelalison's GitHub stats" /></a>
+
+<a href="http://www.github.com/samuelalison"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelalison&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/samuelalison"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=samuelalison&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/samuelalison" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalison&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
