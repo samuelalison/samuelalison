@@ -6,7 +6,7 @@ Frontend Developer
 
 An ardent disciple of the frontend craft, I am a developer who possesses an innate creative spirit and an unwavering attention to detail. With a deep understanding of the art of web aesthetics, I specialize in fashioning visually captivating and user-friendly interfaces. Armed with the tools of HTML, CSS, and JavaScript, I embark on the noble quest of constructing digital realms that captivate the senses. Well-versed in the sacred language of React, I possess the ability to metamorphose design blueprints into flawlessly rendered web landscapes. My code is a testament to my commitment to excellence, optimizing performance and ensuring the harmonious coexistence of diverse browsers. In this ever-evolving digital age, I remain steadfast in my pursuit of knowledge, constantly immersing myself in the currents of contemporary frontend practices. My vocation is to craft transcendental user experiences that transcend the ordinary, elevating the digital sphere to unexplored realms of beauty and functionality.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [samuelalison13@gmail.com](mailto:samuelalison13@gmail.com)
 * 🧠  I'm learning Angular
 
