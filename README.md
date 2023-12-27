@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel Onwukwe
 ======================================================================================================================================
 
-Frontend Developer
+Software Developer
 ------------------
 
-An ardent disciple of the frontend craft, I am a developer who possesses an innate creative spirit and an unwavering attention to detail. With a deep understanding of the art of web aesthetics, I specialize in fashioning visually captivating and user-friendly interfaces. Armed with the tools of HTML, CSS, and JavaScript, I embark on the noble quest of constructing digital realms that captivate the senses. Well-versed in the sacred language of React, I possess the ability to metamorphose design blueprints into flawlessly rendered web landscapes. My code is a testament to my commitment to excellence, optimizing performance and ensuring the harmonious coexistence of diverse browsers. In this ever-evolving digital age, I remain steadfast in my pursuit of knowledge, constantly immersing myself in the currents of contemporary frontend practices. My vocation is to craft transcendental user experiences that transcend the ordinary, elevating the digital sphere to unexplored realms of beauty and functionality.
+I'm a focus driven software developer, intending to craft products that matter and deliver the best experience to users. I am a self-motivated developer that loves to pick up new challenges and use technology to advance the lifestyle of humans.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [samuelalison13@gmail.com](mailto:samuelalison13@gmail.com)
@@ -34,12 +34,7 @@ An ardent disciple of the frontend craft, I am a developer who possesses an inna
 
 <p align="left"> <a href="https://www.github.com/samuelalison" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/samuel-alison-469435261/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SamuelALIS41269" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/samuelalison"><img src="https://github-readme-stats.vercel.app/api?username=samuelalison&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="samuelalison's GitHub stats" /></a>
-
-<a href="http://www.github.com/samuelalison"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelalison&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
